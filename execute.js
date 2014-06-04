@@ -1,0 +1,1 @@
+$(':focus').css('background','#444');
